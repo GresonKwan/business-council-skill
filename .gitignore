@@ -1,0 +1,16 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Logs / Env
+*.log
+.env
+.env.local
+
+# Claude Code local/session data (skill files live at repo root)
+.claude/
